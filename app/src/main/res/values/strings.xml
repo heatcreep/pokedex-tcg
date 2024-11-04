@@ -1,0 +1,36 @@
+<resources>
+    <!--  general  -->
+    <string name="app_name">Pokedex TCG</string>
+
+    <!--  titles  -->
+    <string name="page_title_card_set">%1$s Set Pokemon</string>
+    <string name="page_title_card_details">Card Details</string>
+    <string name="mbs_title_select_stats">Select Sets</string>
+
+
+    <!-- loading -->
+    <string name="loading_card_details">Loading Card Details</string>
+    <string name="loading_card_set">Loading %1$s</string>
+    <string name="loading_tracked_sets">Loading Tracked Sets</string>
+
+    <!--  errors  -->
+    <string name="error_message">Error: %1$s</string>
+    <string name="error_network">There was a network error while retrieving this list of cards</string>
+    <string name="error_unknown">Something went wrong.</string>
+
+    <!-- buttons -->
+    <string name="btn_close">Close</string>
+    <string name="btn_label_view_all">View All</string>
+    <string name="btn_retry">Retry</string>
+
+    <!-- card details -->
+    <string name="card_detail_label_artist">Artist:</string>
+    <string name="card_detail_label_cm_mid_price">Card Market Average Sell Price:</string>
+    <string name="card_detail_label_rarity">Rarity:</string>
+
+    <!-- content descriptions -->
+    <string name="cd_back">Go Back</string>
+    <string name="cd_card_image">%1$s Card Image</string>
+    <string name="cd_edit_tracked_sets">Edit tracked sets</string>
+    <string name="cd_go_to_card_details">Go to card details</string>
+</resources>
